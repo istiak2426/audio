@@ -1,0 +1,33 @@
+*
+{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+
+    background-color: cadetblue;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn
+{
+
+    background-color: darkblue;
+
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    margin: 10px;
+    padding: 15px 15px;
+    font-size: 20px;
+     
+}
